@@ -1,0 +1,22 @@
+{
+    "tablet": {
+        "cantidad": 20,
+        "precio": 800000.0
+    },
+    "audifonos": {
+        "cantidad": 60,
+        "precio": 50000.0
+    },
+    "computador": {
+        "cantidad": 50,
+        "precio": 1200000.0
+    },
+    "televisor": {
+        "cantidad": 30,
+        "precio": 900000.0
+    },
+    "celular": {
+        "cantidad": 50,
+        "precio": 1000000.0
+    }
+}
